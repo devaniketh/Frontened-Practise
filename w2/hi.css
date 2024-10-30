@@ -1,0 +1,24 @@
+.Text {
+    text-align: center; 
+    background-color: rgb(39, 201, 147);
+    border:5px solid #222222;
+}
+ body{
+    background: #76ab73;
+ }
+
+
+
+.Q1 ,.Q2,.Q3{
+    color: #222222;
+    background-color: rgb(190, 161, 161);
+    width: 300px;
+    margin-left: 15px;
+    margin-right: auto;
+    margin-top:60px;
+
+    border:5px solid #222222;
+    border-radius: 20px;
+    display: inline-block; 
+    padding-left:2%;
+}
