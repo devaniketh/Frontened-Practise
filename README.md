@@ -1,1 +1,1 @@
-this repo contains all the Frontend projects made for practise
+Frontend Projects made for practise 
